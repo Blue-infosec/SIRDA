@@ -1,6 +1,6 @@
 # SIRDA
 
-![SIRDA](https://raw.githubusercontent.com/Dviros/SIRDA/master/Screens/2524xnlwokm21.png?token=AFSYVNAJXGHE7FAUXZN3HZS46UD4U)
+![SIRDA](../blob/master/Screens/2524xnlwokm21.png?raw=true)
 
 ## What Is SIRDA?
 Security Incident Response and Data Acquisition
