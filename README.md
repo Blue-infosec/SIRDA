@@ -7,7 +7,7 @@ Security Incident Response and Data Acquisition
 SIRDA pulls data from over 100 different areas in data volatility order, saves all the extract data for more analysis and preservation, and can also kill processes, log off all users, and disable all network adapters to isolate a suspected issue or breach.
 
 ## Who Published and Developed SIRDA?
-Was published by jcholder.
+Was published by jcholder, and he owns all the rights. I'm just republishing.
 
 
 ## What's the Story?
